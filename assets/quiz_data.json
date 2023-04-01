@@ -1,0 +1,52 @@
+[
+    {
+    "id" : 1,
+    "question" : "Après leur mort, les héros et les gens vertueux se retrouvaient aux Champs Élysées.",
+    "answer" : true
+    },
+    {
+    "id" : 2,
+    "question" : "La division du territoire en cités-États a assuré une longue période de paix dans la civilisation grecque.",
+    "answer" : false
+    },
+    {
+    "id" : 3,
+    "question" : "À l’origine, le mot agora servait à désigner une assemblée de prêtresses dans un lieu public.",
+    "answer" : false
+    },
+    {
+    "id" : 4,
+    "question" : "Platon n’a laissé aucun écrit.",
+    "answer" : false
+    },
+    {
+    "id" : 5,
+    "question" : "Homère est un personnage de l’Odyssée, comme Ulysse.",
+    "answer" : false
+    },
+    {
+    "id" : 6,
+    "question" : "Les esclaves qui remportaient une compétition olympique gagnaient aussi leur liberté.",
+    "answer" : false
+    },
+    {
+    "id" : 7,
+    "question" : "La médecine par les songes était pratiquée au sanctuaire d’Asclépios.",
+    "answer" : true
+    },
+    {
+    "id" : 8,
+    "question" : "L’expression « une victoire à la Pyrrhus » signifie une victoire surprise.",
+    "answer" : false
+    },
+    {
+    "id" : 9,
+    "question" : "La Vénus de Milo représente en fait la déesse Aphrodite.",
+    "answer" : true
+    },
+    {
+    "id" : 10,
+    "question" : "Zeus était la divinité vénérée au Parthénon.",
+    "answer" : false
+    }
+    ]
